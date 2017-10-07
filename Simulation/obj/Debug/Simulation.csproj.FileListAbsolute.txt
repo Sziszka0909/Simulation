@@ -1,0 +1,7 @@
+C:\Users\Sziszka\source\repos\Simulation\Simulation\obj\Debug\Simulation.csprojResolveAssemblyReference.cache
+C:\Users\Sziszka\source\repos\Simulation\Simulation\obj\Debug\Simulation.csproj.CoreCompileInputs.cache
+C:\Users\Sziszka\source\repos\Simulation\Simulation\bin\Debug\Simulation.exe.config
+C:\Users\Sziszka\source\repos\Simulation\Simulation\bin\Debug\Simulation.exe
+C:\Users\Sziszka\source\repos\Simulation\Simulation\bin\Debug\Simulation.pdb
+C:\Users\Sziszka\source\repos\Simulation\Simulation\obj\Debug\Simulation.exe
+C:\Users\Sziszka\source\repos\Simulation\Simulation\obj\Debug\Simulation.pdb
